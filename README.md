@@ -10,3 +10,7 @@ If you try to include this script as an external .js file, it will break your ap
 
 
 Meanwhile, if you want to get rid of the Cross Origin errors in the console, you'll need to use live server with Visual Studio Code ; or you will need to run a local HTTP server from your project's directory and load the circles.html file from there.
+
+# Usage
+It can be used for reference and entertainment purpose, to access download directly the zip file.
+
